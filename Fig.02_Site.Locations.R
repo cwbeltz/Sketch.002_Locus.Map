@@ -4,7 +4,7 @@
 # Map Making: Western US with Site Loc #
 ########################################
 # created October 9, 2017
-# updated November 30, 2017
+# updated January 31, 2020
 # adapted from code written by Trace Martyn
 # by Chris Beltz
 
