@@ -20,8 +20,7 @@ library(rgdal)
 ## set working directory ##
 setwd("~/Dropbox (Yale_FES)/Projects/2016_Dissertation_C.N.Cycling/AGU_2017_POSTER/US.Western.Map")
 
-### remove all objects ##
-rm(list=ls())
+
 
 ## read in data ##
 #TBNG 43.43395, -104.93152
