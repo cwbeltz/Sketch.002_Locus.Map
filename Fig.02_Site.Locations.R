@@ -4,7 +4,7 @@
 # Map Making: Western US with Site Loc #
 ########################################
 # created October 9, 2017
-# updated January 31, 2020
+# updated February 4, 2020
 # adapted from code written by Trace Martyn
 # by Chris Beltz
 
@@ -15,11 +15,6 @@ library(mapproj)
 library(prettymapr)
 library(raster)
 library(rgdal)
-
-
-## set working directory ##
-setwd("~/Dropbox (Yale_FES)/Projects/2016_Dissertation_C.N.Cycling/AGU_2017_POSTER/US.Western.Map")
-
 
 
 ## read in data ##
