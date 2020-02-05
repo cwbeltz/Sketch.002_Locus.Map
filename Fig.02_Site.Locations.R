@@ -97,3 +97,9 @@ points(x=COORDS.2$Y,y=COORDS.2$X,pch=20,cex=1.1)
 #turn PDF off
 dev.off()
 
+
+#Citations
+#Huang J, Yu H, Guan X, Wang G, Guo R. Accelerated dryland expansion under climate change. 
+#Nature Climate Change. 2016;6: 166–171. doi:10.1038/nclimate2837
+
+
